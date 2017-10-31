@@ -163,6 +163,9 @@ Ensuring auto-start feature is working
 
 The simplest method - recycle your Application pool, wait for 5 minutes, then go to the Hangfire Dashboard UI and check that current Hangfire Server instance was started 5 minutes ago. If you have problems -- don't hesitate to ask them on `forum <http://discuss.hangfire.io>`_.
 
+IIS 8.0
+-----------------------
+
 Azure web applications
 -----------------------
 
